@@ -1,9 +1,10 @@
 //
 //  Compare Strings.cpp
-//  
-//
 //  Created by Zhiyuan Song on 2017-11-03.
 //
+// Compare two strings A and B, determine whether A contains all of the
+//   characters in B.
+// The characters in string A and B are all Upper Case letters.
 
 #include <iostream>
 using namespace std;
