@@ -1,5 +1,11 @@
 // Given k strings, find the longest common prefix (LCP).
 
+
+#include <string>
+#include <vector>
+#include <iostream>
+using namespace std;
+
 string longestCommonPrefix(vector<string> &strs) {
         // write your code here
         
