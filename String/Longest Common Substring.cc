@@ -1,6 +1,10 @@
 // Given two strings, find the longest common substring.
 // Return the length of it.
 
+#include <string>
+#include <iostream>
+using namespace std;
+
 int longestCommonSubstring(string &A, string &B) {
         int len_a = A.size();
         int len_b = B.size();
